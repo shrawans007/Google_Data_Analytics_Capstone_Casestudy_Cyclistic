@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Course: [Google Data Analytics Capstone: Complete a Case
 Study](https://www.coursera.org/learn/google-data-analytics-capstone/)
 
-![](https://431702c6caf44d879636c14111d98f01.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FCourse+7%2Fcyclistic_case_study.png)
+https://github.com/shrawans007/Google_Data_Analytics_Capstone_Casestudy_Cyclistic/blob/main/cyclistic_case_study.png
 
 ## Introduction
 

@@ -1,15 +1,4 @@
----
-title: "Google_Capstone_Cyclistic_2023"
-author: "shrawan"
-date: "2024-11-21"
-output:
-  html_document: default
-  pdf_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Google_Data_Analytics_Capstone_Cyclistic_2023
 
 Course: [Google Data Analytics Capstone: Complete a Case
 Study](https://www.coursera.org/learn/google-data-analytics-capstone/)
